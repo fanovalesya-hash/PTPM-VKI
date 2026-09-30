@@ -71,3 +71,15 @@ if __name__ == "__main__":
 
     analyze_triangle("-5", "5", "5")
 
+    while True:
+        a = input("Введите сторону a или q чтобы выйти ")
+        if a.lower() == ('q'):
+            logging.info("Завершение работы по команде ")
+            print("Завершение работы.")
+            break
+        b = input("Введите сторону b ")
+        c = input("Введите сторону c ")
+
+        type, coord = analyze_triangle(a, b, c)
+        print("Тип треугольника: ", type)
+        print("Координаты: ", coord)
