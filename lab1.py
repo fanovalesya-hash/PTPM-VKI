@@ -70,3 +70,4 @@ if __name__ == "__main__":
     analyze_triangle("1", "1", "3")
 
     analyze_triangle("-5", "5", "5")
+
