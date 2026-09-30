@@ -29,7 +29,7 @@ def analyze_triangle(str_a: str, str_b: str, str_c: str):
         logging.warning(f"Стороны должны быть положительными: A={a}, B={b}, C={c}")
         return "не треугольник", [(-1, -1), (-1, -1), (-1, -1)]
 
-    if a + b <= c or a + c <= b or b + c <= a:
+    if round(a + b,1)  <= round(c,1) or round(a + c,1) <= round(b,1) or round(b + c,1) <= round(a,1):
         logging.warning(f"Нарушено неравенство треугольника: A={a}, B={b}, C={c}")
         return "не треугольник", [(-1, -1), (-1, -1), (-1, -1)]
 
@@ -43,7 +43,7 @@ def analyze_triangle(str_a: str, str_b: str, str_c: str):
     x1, y1 = 0.0, 0.0
     x2, y2 = c, 0.0
 
-    x3 = (a ** 2 + c ** 2 - b ** 2) / (2 * c)
+    x3 = (a ** 2 + c ** 2 - b ** 2) / (2  * c)
     y3 = math.sqrt(max(0.0, a ** 2 - x3 ** 2))
 
     coords = [
