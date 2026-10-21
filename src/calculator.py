@@ -2,7 +2,7 @@ import logging
 import math
 
 class TriangleCalculator:
-    def analyze(self, str_a: str, str_b: str, str_c: str):
+    def analyze_triangle(self, str_a: str, str_b: str, str_c: str):
         try:
             a = float(str_a)
             b = float(str_b)
