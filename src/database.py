@@ -23,7 +23,6 @@ class TriangleDatabase:
     def add_record(self, side1: float, side2: float, side3: float, tri_type: str, error_msg: str):
         cursor = self.conn.cursor()
         try:
-            # INSERT OR REPLACE обновит запись, если стороны совпадут (избегаем дубликатов)
             cursor.execute("""
                 INSERT OR REPLACE INTO triangles (side1, side2, side3, tri_type, error_msg)
                 VALUES (?, ?, ?, ?, ?)
@@ -39,7 +38,7 @@ class TriangleDatabase:
             SELECT tri_type, error_msg FROM triangles 
             WHERE side1 = ? AND side2 = ? AND side3 = ?
         """, (side1, side2, side3))
-        return cursor.fetchone()  # Вернет кортеж (tri_type, error_msg) или None
+        return cursor.fetchone()
 
     def delete_record(self, side1: float, side2: float, side3: float):
         cursor = self.conn.cursor()

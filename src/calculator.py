@@ -37,6 +37,5 @@ class TriangleCalculator:
             (int(round(x3)), int(round(y3)))
         ]
 
-        logging.info(f"Успешный запрос: стороны A={a}, B={b}, C={c}, "
-                     f"тип='{tri_type}', координаты={coords}")
+        logging.info(f"Успешный запрос: стороны A={a}, B={b}, C={c}, тип='{tri_type}', координаты={coords}")
         return tri_type, coords
