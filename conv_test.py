@@ -1,5 +1,5 @@
 import unittest
-from COnverter import Converter
+from converter import Converter
 
 class MyTestCase(unittest.TestCase):
     def test_100_7_returns_1000(self):
