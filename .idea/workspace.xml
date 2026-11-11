@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e3fdfdf-6092-457b-a4da-ae62a4772d9e" name="Changes" comment="уннн написала тесты" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Python Unit Test" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lab3_Nasenkina_Olesya_2307g2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;fanovalesya-hash&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/fanovalesya-hash/PTPM-VKI.git&quot;,
+    &quot;accountId&quot;: &quot;4d98f8ef-35fc-4309-ac59-83ab8819cb41&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3KzJODEyg40JaaknHCxfOqMQr0z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in conv_test.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Lab4__Nasenkina__Olesya__2307g2",
+    "last_opened_file_path": "C:/Users/Nasenkinaoe/PycharmProjects/PTPM-VKI/src"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nasenkinaoe\PycharmProjects\PTPM-VKI\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nasenkinaoe\PycharmProjects\PTPM-VKI\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-1f77c24022e5-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.26830.99" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e3fdfdf-6092-457b-a4da-ae62a4772d9e" name="Changes" comment="" />
+      <created>1792554428340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792554428340</updated>
+    </task>
+    <task id="LOCAL-00001" summary="с лабы 2">
+      <option name="closed" value="true" />
+      <created>1792555149678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1792555149678</updated>
+    </task>
+    <task id="LOCAL-00002" summary="с лабы 2">
+      <option name="closed" value="true" />
+      <created>1792555245923</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1792555245923</updated>
+    </task>
+    <task id="LOCAL-00003" summary="с лабы">
+      <option name="closed" value="true" />
+      <created>1792555461975</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1792555461975</updated>
+    </task>
+    <task id="LOCAL-00004" summary="с лабы">
+      <option name="closed" value="true" />
+      <created>1792555569874</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1792555569874</updated>
+    </task>
+    <task id="LOCAL-00005" summary="с лабы">
+      <option name="closed" value="true" />
+      <created>1792555653795</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1792555653795</updated>
+    </task>
+    <task id="LOCAL-00006" summary="с лабы">
+      <option name="closed" value="true" />
+      <created>1792555716117</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1792555716117</updated>
+    </task>
+    <task id="LOCAL-00007" summary="файл бд">
+      <option name="closed" value="true" />
+      <created>1792555779980</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1792555779980</updated>
+    </task>
+    <task id="LOCAL-00008" summary="файл взаимодействий с пользователем">
+      <option name="closed" value="true" />
+      <created>1792555805935</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1792555805935</updated>
+    </task>
+    <task id="LOCAL-00009" summary="файл взаимодействий с пользователем">
+      <option name="closed" value="true" />
+      <created>1792555836535</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1792555836535</updated>
+    </task>
+    <task id="LOCAL-00010" summary="контроллер">
+      <option name="closed" value="true" />
+      <created>1792556089116</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1792556089117</updated>
+    </task>
+    <task id="LOCAL-00011" summary="пишу тестыы">
+      <option name="closed" value="true" />
+      <created>1792556096196</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1792556096196</updated>
+    </task>
+    <task id="LOCAL-00012" summary="пишу тестыы">
+      <option name="closed" value="true" />
+      <created>1792556208724</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1792556208724</updated>
+    </task>
+    <task id="LOCAL-00013" summary="vtqy">
+      <option name="closed" value="true" />
+      <created>1792556274839</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1792556274839</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ляляля">
+      <option name="closed" value="true" />
+      <created>1792559183771</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1792559183771</updated>
+    </task>
+    <task id="LOCAL-00015" summary="уннн написала тесты">
+      <option name="closed" value="true" />
+      <created>1794370342534</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1794370342534</updated>
+    </task>
+    <task id="LOCAL-00016" summary="уннн написала тесты">
+      <option name="closed" value="true" />
+      <created>1794370565785</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1794370565785</updated>
+    </task>
+    <task id="LOCAL-00017" summary="уннн написала тесты">
+      <option name="closed" value="true" />
+      <created>1794370955407</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1794370955407</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/Lab3_Nasenkina_Olesya_2307g2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="с лабы 2" />
+    <MESSAGE value="с лабы" />
+    <MESSAGE value="файл бд" />
+    <MESSAGE value="файл взаимодействий с пользователем" />
+    <MESSAGE value="контроллер" />
+    <MESSAGE value="пишу тестыы" />
+    <MESSAGE value="vtqy" />
+    <MESSAGE value="ляляля" />
+    <MESSAGE value="уннн написала тесты" />
+    <option name="LAST_COMMIT_MESSAGE" value="уннн написала тесты" />
+  </component>
+</project>
